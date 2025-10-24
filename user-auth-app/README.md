@@ -219,5 +219,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 If you have any questions or need help, please open an issue in the repository.
 
 ---
-
 **Built with ❤️ using React.js**
